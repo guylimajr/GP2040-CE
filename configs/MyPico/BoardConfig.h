@@ -42,6 +42,14 @@
 #define PIN_BUTTON_L3   27          // L3 / LS / LS / L3 / 11 / LS
 #define PIN_BUTTON_R3   26          // R3 / RS / RS / R3 / 12 / RS
 
+// Unused
+#define PIN_BUTTON_TURBO -1         // Turbo
+#define PIN_BUTTON_REVERSE -1       // UDLR Reverse
+#define PIN_SLIDER_LS    -1         // Left Stick Slider
+#define PIN_SLIDER_RS    -1         // Right Stick Slider
+#define PIN_SLIDER_SOCD_ONE    -1         // SOCD Slider Pin One
+#define PIN_SLIDER_SOCD_TWO    -1         // SOCD Slider Pin Two
+
 
 // This is the SOCD section.
 // SOCD stands for `simultaneous opposing cardinal directions`.
